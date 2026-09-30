@@ -1,2 +1,2 @@
-# PRACOVNÍ SEŠIT S PROGRAMOVANÍ
+# PRACOVNÍ SEŠIT Z PROGRAMOVANÍ
 Zde jsou uloženy moje úkoly z hodin
